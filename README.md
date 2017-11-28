@@ -2,6 +2,8 @@
 
 ### DEADLINE: Monday, November 27th at 11:59 PM
 
+### My Database Name: yanghan_507project6
+
 ## To Submit
 
 * A link to your fork of this GitHub repository, having committed all the files you've changed and added. See below for further instructions.
